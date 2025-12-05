@@ -6,6 +6,7 @@
 # Config files with sensitive data
 config.js
 config.py
+config_prod.py
 
 # Node modules
 node_modules/
